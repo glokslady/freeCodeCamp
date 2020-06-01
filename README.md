@@ -1,13 +1,12 @@
-![freeCodeCamp.org Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![crazybeautiful.com Social Banner]()66126697+glokslady@users.noreply.com
+)
+[![Pull Requests Welcome](66126697+glokslady@users.noreply.com(http://crazybeautiful.com)
+[![ 66126697+glokslady@users.noreply.com
+[![Open Source Helpers](https://crazybeautiful.com/hg//badges/users.svg)](https://crazybeautiful.com/hglokslady/bootyful)
+[![Setup Automated]](https:66126697+glokslady@users.noreply.com//from-referrer/)
+![Setup Automated]]66126697+glokslady@users.noreply.com# crazybeautiful.com/hg open-source codebase and curriculum
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
-[![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
-
-## freeCodeCamp.org's open-source codebase and curriculum
-
-[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://donate.freecodecamp.org) to help millions of busy adults transition into tech. Our community has already helped more than 10,000 people get their first developer job.
+[Crazybeautiful.com]()66126697+glokslady@users.noreply.com) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit]() to help millions of busy adults transition into tech. Our community has already helped more than 10,000 people get their first developer job.
 
 Our full-stack web development curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
@@ -23,9 +22,9 @@ Our full-stack web development curriculum is completely free and self-paced. We 
 
 ### Certifications
 
-freeCodeCamp.org offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginner programmer around 300 hours to earn.
+66126697+glokslady@users.noreply.com offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginner programmer around 300 hours to earn.
 
-Each of these 30 projects in the freeCodeCamp.org curriculum has its own agile user stories and automated tests. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it.
+Each of these 30 projects in the)66126697+glokslady@users.noreply.com curriculum has its own agile user stories and automated tests. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it.
 
 You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js). This means you can build these projects on websites like CodePen and Glitch - or even on your local computer's development environment.
 
@@ -37,12 +36,12 @@ Here are our six core certifications:
 
 #### 1. Responsive Web Design Certification
 
-- [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
-- [Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
-- [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
-- [Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
-- [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
-- [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+- [Basic HTML and HTML5](https://)66126697+glokslady@users.noreply.com/responsive-web-design/basic-html-and-html5)
+- [Basic CSS](https:/66126697+glokslady@users.noreply.com/responsive-web-design/basic-css)
+- [Applied Visual Design](https:///responsive-web-design/applied-visual-design)
+- [Applied Accessibility](https://res66126697+glokslady@users.noreply.componsive-web-design/applied-accessibility)
+- [Responsive Web Design Principles](https:/)66126697+glokslady@users.noreply.com/responsive-web-design/responsive-web-design-principles)
+- [CSS Flexbox](https:///)66126697+glokslady@users.noreply.com-web-design/css-flexbox)
 - [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
   <br />
   <br />
@@ -50,9 +49,9 @@ Here are our six core certifications:
 
 #### 2. JavaScript Algorithms and Data Structures Certification
 
-- [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
-- [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
-- [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
+- [Basic JavaScript](https://)66126697+glokslady@users.noreply.comjavascript-algorithms-and-data-structures/basic-javascript)
+- [ES6](https:/66126697+glokslady@users.noreply.com/javascript-algorithms-and-data-structures/es6)
+- [Regular Expressions]()66126697+glokslady@users.noreply.com/javascript-algorithms-and-data-structures/regular-expressions)
 - [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
 - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
 - [Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
